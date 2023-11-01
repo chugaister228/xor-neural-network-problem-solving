@@ -1,0 +1,15 @@
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\bin\Debug\net7.0\ExclusivelyOrAISolving.exe
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\bin\Debug\net7.0\ExclusivelyOrAISolving.deps.json
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\bin\Debug\net7.0\ExclusivelyOrAISolving.runtimeconfig.json
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\bin\Debug\net7.0\ExclusivelyOrAISolving.dll
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\bin\Debug\net7.0\ExclusivelyOrAISolving.pdb
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\obj\Debug\net7.0\ExclusivelyOrAISolving.csproj.AssemblyReference.cache
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\obj\Debug\net7.0\ExclusivelyOrAISolving.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\obj\Debug\net7.0\ExclusivelyOrAISolving.AssemblyInfoInputs.cache
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\obj\Debug\net7.0\ExclusivelyOrAISolving.AssemblyInfo.cs
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\obj\Debug\net7.0\ExclusivelyOrAISolving.csproj.CoreCompileInputs.cache
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\obj\Debug\net7.0\ExclusivelyOrAISolving.dll
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\obj\Debug\net7.0\refint\ExclusivelyOrAISolving.dll
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\obj\Debug\net7.0\ExclusivelyOrAISolving.pdb
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\obj\Debug\net7.0\ExclusivelyOrAISolving.genruntimeconfig.cache
+D:\Projects\AI\ExclusivelyOrAISolving\ExclusivelyOrAISolving\obj\Debug\net7.0\ref\ExclusivelyOrAISolving.dll
